@@ -1,2 +1,3 @@
-# hacker-rank-preparation
-HackerRank preparation problems in JavaScript
+# HackerRank perparation problems
+
+HackerRank preparation problems solved using JavaScript
